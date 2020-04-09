@@ -1,0 +1,17 @@
+body{
+    background-color: #adb004;
+}
+
+#nameList{
+    text-align: center;
+}
+
+.btn{
+    border-radius: 50%;
+    background-color: black;
+    color: chartreuse;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
